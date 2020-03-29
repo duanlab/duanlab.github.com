@@ -28,7 +28,7 @@
 * 1997/07-1998/03，武汉制药厂，药物研究所，研究助理
 
 ## 代表作
-1. Jin G, Xu M, Zou M, **Duan S<sup>$**. [The Processing, Gene Regulation, Biological Functions, and Clinical Relevance of N4-Acetylcytidine on RNA: A Systematic Review.]() ***Mol Ther Nucleic Acids***, **二区 5.919**, 2020 Feb 8;20:13-24. doi: 10.1016/j.omtn.2020.01.037. PMID: 32171170 
+1. Jin G, Xu M, Zou M, **<font color=#0099ff>Duan S</font><sup>$</sup>**. [The Processing, Gene Regulation, Biological Functions, and Clinical Relevance of N4-Acetylcytidine on RNA: A Systematic Review.]() ***Mol Ther Nucleic Acids***, **二区 5.919**, 2020 Feb 8;20:13-24. doi: 10.1016/j.omtn.2020.01.037. PMID: 32171170 
 2. Han L, You D, Zeng F, Feng X, Astell-Burt T, **Duan S**, Qi L.[Trends in Self-perceived Weight Status, Weight Loss Attempts, and Weight Loss Strategies Among Adults in the United States, 1999-2016.]() ***JAMA Netw Open***, 2019 Nov 1;2(11):e1915219. doi: 10.1001/jamanetworkopen.2019.15219. PMID: 31722029 
 3. Ji H, Yi Q, Chen L, Wong L, Liu Y, Xu G, Zhao J, Huang T, Li B, Yang Y, Li W, Han L, **Duan S<sup>$**. Circulating miR-3197 and miR-2116-5p as novel biomarkers for diabetic retinopathy. ***Clin Chim Acta***, 2020 Feb;501:147-153. doi: 10.1016/j.cca.2019.10.036. PMID: 31678272
 4. Han L, You D, Ma W, Astell-Burt T, Feng X, **Duan S**, Qi L. National Trends in American Heart Association Revised Life's Simple 7 Metrics Associated With Risk of Mortality Among US Adults. ***JAMA Netw Open***, 2019 Oct 2;2(10):e1913131. doi: 10.1001/jamanetworkopen.2019.13131. PMID: 31603489 
