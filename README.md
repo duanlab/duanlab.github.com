@@ -182,4 +182,230 @@
   </tr>
 </table>
 
-## 
+## 获得基金资助
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-1wig">年份</th>
+    <th class="tg-1wig">基金题目和赞助方</th>
+    <th class="tg-1wig">作用</th>
+  </tr>
+  <tr>
+    <td class="tg-lboi">2016-2017</td>
+    <td class="tg-lboi">Title: Environmental Adaptation Evolution of Disease Susceptibility Genes <br>Sponsor: Ningbo Science and Technology Bureau (CNY 80,000) </td>
+    <td class="tg-lboi">Co-PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015-2019</td>
+    <td class="tg-0lax">Title: Major mental illness translational medicine research<br>Sponsor: Ningbo Science and Technology Bureau (CNY 2,500,000)</td>
+    <td class="tg-0lax">Co-PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015-2017</td>
+    <td class="tg-0lax">Title: Screening for DNA methylation markers for early warning of Alzheimer's disease <br>Sponsor: Zhejiang Natural Science Foundation (CNY 200,000)</td>
+    <td class="tg-0lax">Co-PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014-2017</td>
+    <td class="tg-0lax">Title: Epigenomics of heroin addiction<br>Sponsor: Natural Science Foundation of China (CNY 700,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014-2014</td>
+    <td class="tg-0lax">Title: Translational medicine conference in the post-genomic era<br>Sponsor: Zhejiang Natural Science Foundation (CNY 30,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013-2017</td>
+    <td class="tg-0lax">Title: Top Talents Program in Ningbo University<br>Sponsor: Ningbo University (CNY 1,500,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013-2016</td>
+    <td class="tg-0lax">Title: Epigenomics of coronary heart disease<br>Sponsor: Zhejiang Natural Science Foundation (CNY 300,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013-2015</td>
+    <td class="tg-0lax">Title: Construction and Systematic Analysis of Epigenetic Regulation Network of Long Non-coding RNAs in Colorectal Cancer<br>Sponsor: Zhejiang Natural Science Foundation (CNY 50,000)</td>
+    <td class="tg-0lax">Co-PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2012-2014</td>
+    <td class="tg-0lax">Title: Systems biology of gene loci associated with coronary heart disease<br>Sponsor: Natural Science Foundation of China (CNY 250,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2012-2013</td>
+    <td class="tg-0lax">Title: Pharmacogenomic analysis of risperidone in schizophrenia<br>Sponsor: Ningbo Science and Technology Bureau (CNY 100,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2011-2015</td>
+    <td class="tg-0lax">Title: Digestive system malignant tumor diagnosis and treatment new technology innovation team<br>Sponsor: Ningbo Science and Technology Bureau (CNY 2,400,000)</td>
+    <td class="tg-0lax">Co-PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2011-2014</td>
+    <td class="tg-0lax">Title: Molecular genetic studies of cardiovascular disease and diabetes<br>Sponsor: Zhejiang Province Government (CNY 1,500,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2011-2013</td>
+    <td class="tg-0lax">Title: Pilot analysis of systems biology of coronary heart disease<br>Sponsor: Provincial Human Resources and Social Security Department (CNY 10,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2011-2013</td>
+    <td class="tg-0lax">Title: Pilot analysis for screening biomarkers for early diagnosis of Alzheimer's disease<br>Sponsor: Ningbo Science and Technology Bureau (CNY 20,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2005-2007</td>
+    <td class="tg-0lax">Title: Whole genome linkage scans for genetic markers contributing to sensitivity to chemotherapeutic agents<br>Sponsor: University of Chicago (US $71,000)</td>
+    <td class="tg-0lax">PI</td>
+  </tr>
+</table>
+
+##
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax">年份</th>
+    <th class="tg-0lax">获奖内容</th>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2018</td>
+    <td class="tg-cly1">Recipient of Ningbo High-Level Leading Talents (First Level)</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2017</td>
+    <td class="tg-cly1">Mentor of Outstanding Graduate Student of Zhejiang Province (Xiaoying Chen, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2016</td>
+    <td class="tg-0lax">Recipient of The First Level of "151" Talent Project in Zhejiang Province</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2016</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Xiaoying Chen, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Qingxiao Hong, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Xiaoying Chen, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of The First Prize of "Challenge Cup" in Zhejiang Province (Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of The Second Prize of "Challenge Cup" at Ningbo University (Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Ningbo University Xu Wang Yue Teaching Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of Outstanding Graduate Student of Zhejiang Province (Linlin Tang and Huadan Ye)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of Outstanding Thesis of Ningbo University (Master Student: Limin Xu, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of Outstanding Thesis of Ningbo University (Master Student: Cheng Chen, Co-Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2015</td>
+    <td class="tg-0lax">Mentor of Outstanding Thesis of Ningbo University (Master Student: Panpan Liu, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Recipient of Zhejiang 151 Program Talents (First level)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Mentor of President Scholarship of Ningbo University (Student: Danjie Jiang)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Linlin Tang)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Huadan Ye, Rui Fan)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Mentor of Outstanding Graduate Student at Ningbo University</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Mentor of The Second Prize of "Challenge Cup" in Ningbo University (Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2014</td>
+    <td class="tg-0lax">Mentor of Outstanding Thesis of Ningbo University (Master Student: Yi Huang, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Mentor of The Third Prize of “Chao Guang Biao” for Graduate Research (Yi Huang, Mentor)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Limin Xu)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Mentor of National Graduate Research Prize (Student: Panpan Liu)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Mentor of the First Prize of "Challenge Cup" in Zhejiang Province</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Mentor of the Second Prize of "Challenge Cup" at Ningbo University</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Recipient of Distinguished Young Scholars in Zhejiang Province</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2013</td>
+    <td class="tg-0lax">Recipient of Top Talents in Ningbo University</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2012</td>
+    <td class="tg-0lax">Recipient of Ningbo 3315 Program Talents</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2011</td>
+    <td class="tg-0lax">Zhejiang Provincial Qianjiang Endowed Professor</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2006</td>
+    <td class="tg-0lax">Recipient of travel award and cover designer for the abstract book, Pharmacogenomics meeting at cold spring harbor laboratory</td>
+  </tr>
+</table>
