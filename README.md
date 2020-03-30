@@ -411,3 +411,13 @@
     <td class="tg-0lax">Recipient of travel award and cover designer for the abstract book, Pharmacogenomics meeting at cold spring harbor laboratory</td>
   </tr>
 </table>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?087cc552f649777f79a06607f15f735d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
