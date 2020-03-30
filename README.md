@@ -2,9 +2,9 @@
 
 ![Image](http://yxy.nbu.edu.cn/__local/A/DF/30/4983E93E8BA951E28F772631D14_C08405AD_6BF9.png)
 
-我毕业于上海交通大学（细胞分子生物学博士），目前是宁波大学医学院[研究员](http://yxy.nbu.edu.cn/info/1365/6832.htm)。
+我毕业于上海交通大学（细胞分子生物学博士），目前是宁波大学医学院[**研究员**](http://yxy.nbu.edu.cn/info/1365/6832.htm)。
 
-我的工作岗位包括浙江省“钱江学者”特聘教授，浙江省151人才工程第一层次培养人员，浙江省自然科学基金杰出青年人才项目主持人，宁波市生物化学与分子生物学重点学科带头人，宁波市“3315计划”高层次创新人才，宁波大学拔尖人才，宁波大学“安中”特聘讲座教授， 宁波大学“浙东学者”特聘教授，宁波大学医学院生化研究所副所长。
+我的工作岗位包括浙江省“**钱江学者**”特聘教授，**浙江省151人才工程第一层次培养人员**，浙江省自然科学基金杰出青年人才项目主持人，宁波市生物化学与分子生物学重点学科带头人，宁波市“3315计划”高层次创新人才，宁波大学拔尖人才，宁波大学“安中”特聘讲座教授， 宁波大学“浙东学者”特聘教授，宁波大学医学院生化研究所副所长。
 
 **我的课题组主要从事医学遗传学和表观遗传学研究，我们的研究兴趣是研发人类重大疾病的液体诊断标志物。**
 
@@ -29,6 +29,7 @@
 * 1997/07-1998/03，武汉制药厂，药物研究所，研究助理
 
 ## 代表作
+完整发表文章可见于[**Researchgate**](https://www.researchgate.net/profile/Shiwei_Duan/publications), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=7102434745), 或 [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=dl12NCAAAAAJ&view_op=list_works&sortby=pubdate).
 1. Jin G, Xu M, Zou M, **Duan S**<sup>**$**</sup>. [The Processing, Gene Regulation, Biological Functions, and Clinical Relevance of N4-Acetylcytidine on RNA: A Systematic Review.](https://www.ncbi.nlm.nih.gov/pubmed/32171170) ***Mol Ther Nucleic Acids***, **2区 5.919**, 2020 Feb 8;20:13-24. doi: 10.1016/j.omtn.2020.01.037. PMID: 32171170 
 2. Han L, You D, Zeng F, Feng X, Astell-Burt T, **Duan S**, Qi L.[Trends in Self-perceived Weight Status, Weight Loss Attempts, and Weight Loss Strategies Among Adults in the United States, 1999-2016.](https://www.ncbi.nlm.nih.gov/pubmed/31722029) ***JAMA Netw Open***, 2019 Nov 1;2(11):e1915219. doi: 10.1001/jamanetworkopen.2019.15219. PMID: 31722029 
 3. Ji H, Yi Q, Chen L, Wong L, Liu Y, Xu G, Zhao J, Huang T, Li B, Yang Y, Li W, Han L, **Duan S<sup>$</sup>**. [Circulating miR-3197 and miR-2116-5p as novel biomarkers for diabetic retinopathy.](https://www.ncbi.nlm.nih.gov/pubmed/31678272) ***Clin Chim Acta***, 2020 Feb;501:147-153. doi: 10.1016/j.cca.2019.10.036. PMID: 31678272
