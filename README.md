@@ -95,86 +95,86 @@
   </tr>
   <tr>
     <td class="tg-0pky">1</td>
-    <td class="tg-0pky">用于检测与胃癌相关的NDRG4基因甲基化程度的试剂盒及其应用 - 201610496772.8;106011263B</td>
+    <td class="tg-0pky"><a href="http://www.soopat.com/Patent/201610496772?lx=FMSQ">用于检测与胃癌相关的NDRG4基因甲基化程度的试剂盒及其应用</a> - 201610496772.8;106011263B</td>
     <td class="tg-0pky">有权</td>
     <td class="tg-0pky"><span style="font-weight:bold">段世伟</span>; 陈晓颖</td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
-    <td class="tg-0pky">用于胃癌早期诊断及预后评估的NDRG4基因甲基化检测的试剂盒及其应用 - 201610510535.2;106119361B</td>
+    <td class="tg-0pky"><a href="http://www.soopat.com/Patent/201610510535?lx=FMSQ">用于胃癌早期诊断及预后评估的NDRG4基因甲基化检测的试剂盒及其应用</a> - 201610510535.2;106119361B</td>
     <td class="tg-0pky">有权</td>
-    <td class="tg-0pky">段世伟; 施长根; 陈晓颖</td>
+    <td class="tg-0pky"><span style="font-weight:bold">段世伟</span>; 施长根; 陈晓颖</td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
-    <td class="tg-0pky">可用于检测与大肠癌相关的SSTR2基因启动子区甲基化程度的试剂盒及其应用 - 201510128460.7;104726590B</td>
+    <td class="tg-0pky"><a href="http://www.soopat.com/Patent/201510128460?lx=FMSQ">可用于检测与大肠癌相关的SSTR2基因启动子区甲基化程度的试剂盒及其应用</a> - 201510128460.7;104726590B</td>
     <td class="tg-0pky">有权</td>
-    <td class="tg-0pky">段世伟;叶孟;李锦芸;陈成</td>
+    <td class="tg-0pky"><span style="font-weight:bold">段世伟</span>;叶孟;李锦芸;陈成</td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-0lax">一种辅助诊断阿尔茨海默病的检测试剂盒及其检测方法 - 201410157252.5;103911456B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201410157252?lx=FMSQ">一种辅助诊断阿尔茨海默病的检测试剂盒及其检测方法</a> - 201410157252.5;103911456B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">季慧慧;段世伟;王钦文;徐旭婷</td>
+    <td class="tg-0lax">季慧慧;<span style="font-weight:bold">段世伟(专利权人)</span>;王钦文;徐旭婷</td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">一种辅助诊断糖尿病的检测试剂盒 - 201410214173.3;104073556B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201410214173?lx=FMSQ">一种辅助诊断糖尿病的检测试剂盒</a> - 201410214173.3;104073556B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">段世伟;汤琳琳;麦一峰;叶孟</td>
+    <td class="tg-0lax"><span style="font-weight:bold">段世伟</span>;汤琳琳;麦一峰;叶孟</td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">一种辅助诊断2型糖尿病的检测试剂盒及其使用方法 - 201410213044.2;104178561B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201410213044?lx=FMSQ">一种辅助诊断2型糖尿病的检测试剂盒及其使用方法</a> - 201410213044.2;104178561B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">段世伟;汤琳琳;麦一峰;叶孟</td>
+    <td class="tg-0lax"><span style="font-weight:bold">段世伟</span>;汤琳琳;麦一峰;叶孟</td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
-    <td class="tg-0lax">用于检测男性生育力的引物、探针及其试剂盒 - 201310415474.8;103468807B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201310415474?lx=FMSQ">用于检测男性生育力的引物、探针及其试剂盒</a> - 201310415474.8;103468807B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">施长根;施惠娟;王荣芳;段世伟;吴峻;袁瑶;吴斌</td>
+    <td class="tg-0lax">施长根;施惠娟;王荣芳;<span style="font-weight:bold">段世伟</span>;吴峻;袁瑶;吴斌</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">一种用于辅助诊断阿尔茨海默病的检测试剂盒及其应用 - 201410225922.2;103966340B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201410225922?lx=FMSQ">一种用于辅助诊断阿尔茨海默病的检测试剂盒及其应用</a> - 201410225922.2;103966340B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">段世伟;季慧慧;王钦文;徐旭婷;戴东君;洪青晓</td>
+    <td class="tg-0lax"><span style="font-weight:bold">段世伟</span>;季慧慧;王钦文;徐旭婷;戴东君;洪青晓</td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
-    <td class="tg-0lax">可用于检测与大肠癌相关的PCDH‑γ‑A12基因启动子区甲基化程度的试剂盒及其应用 - 201510128793.X;104726592B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201510128793?lx=FMSQ">可用于检测与大肠癌相关的PCDH‑γ‑A12基因启动子区甲基化程度的试剂盒及其应用</a> - 201510128793.X;104726592B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">段世伟;叶孟;张澄;李锦芸;黄韬;陈成;林蕾</td>
+    <td class="tg-0lax"><span style="font-weight:bold">段世伟</span>;叶孟;张澄;李锦芸;黄韬;陈成;林蕾</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">可用于检测与2型糖尿病相关的PTPN1基因启动子区甲基化程度的试剂盒及其应用 - 201510428933.5;105039543B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201510428933?lx=FMSQ">可用于检测与2型糖尿病相关的PTPN1基因启动子区甲基化程度的试剂盒及其应用</a> - 201510428933.5;105039543B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">韩丽媛;段世伟;麦一峰;黄清;周恩呈;刘艳芬;陆南佳</td>
+    <td class="tg-0lax">韩丽媛;<span style="font-weight:bold">段世伟</span>;麦一峰;黄清;周恩呈;刘艳芬;陆南佳</td>
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">可用于检测与大肠癌相关的SLCl9A1基因启动子区甲基化程度的试剂盒及其应用 - 201510128755.4;104726591B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201510128755?lx=FMSQ">可用于检测与大肠癌相关的SLCl9A1基因启动子区甲基化程度的试剂盒及其应用</a> - 201510128755.4;104726591B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">段世伟;叶孟;张澄;李锦芸;黄韬;陈成;林蕾</td>
+    <td class="tg-0lax"><span style="font-weight:bold">段世伟</span>;叶孟;张澄;李锦芸;黄韬;陈成;林蕾</td>
   </tr>
   <tr>
     <td class="tg-0lax">12</td>
-    <td class="tg-0lax">可用于检测与2型糖尿病相关的GLUD1基因启动子区甲基化程度的试剂盒及其应用 - 201510430209.6;105039327B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201510430209?lx=FMSQ">可用于检测与2型糖尿病相关的GLUD1基因启动子区甲基化程度的试剂盒及其应用</a> - 201510430209.6;105039327B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">段世伟韩丽媛;麦一峰;黄清;周恩呈;刘艳芬;陆南佳</td>
+    <td class="tg-0lax"><span style="font-weight:bold">段世伟</span>;韩丽媛;麦一峰;黄清;周恩呈;刘艳芬;陆南佳</td>
   </tr>
   <tr>
     <td class="tg-0lax">13</td>
-    <td class="tg-0lax">用于检测2型糖尿病视网膜病变的miR-3197分子标记物及其扩增引物和应用 - 201510980953.3;105483230B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201510980953?lx=FMSQ">用于检测2型糖尿病视网膜病变的miR-3197分子标记物及其扩增引物和应用</a> - 201510980953.3;105483230B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">韩丽媛;陆南佳;刘艳芬;段东辉;汪凯悦;顾凯波;张璐;段世伟</td>
+    <td class="tg-0lax">韩丽媛;陆南佳;刘艳芬;段东辉;汪凯悦;顾凯波;张璐;<span style="font-weight:bold">段世伟</span></td>
   </tr>
   <tr>
     <td class="tg-0lax">14</td>
-    <td class="tg-0lax">用于检测2型糖尿病视网膜病变的miR-2116-5p分子标记物及其扩增引物和应用 - 201510980980.0;105483231B</td>
+    <td class="tg-0lax"><a href="http://www.soopat.com/Patent/201510980980?lx=FMSQ">用于检测2型糖尿病视网膜病变的miR-2116-5p分子标记物及其扩增引物和应用</a> - 201510980980.0;105483231B</td>
     <td class="tg-0lax">有权</td>
-    <td class="tg-0lax">刘艳芬;韩丽媛;段东辉;陆南佳;汪凯悦;顾凯波;张璐;段世伟</td>
+    <td class="tg-0lax">刘艳芬;韩丽媛;段东辉;陆南佳;汪凯悦;顾凯波;张璐;<span style="font-weight:bold">段世伟</span></td>
   </tr>
 </table>
