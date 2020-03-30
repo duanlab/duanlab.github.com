@@ -77,3 +77,9 @@
 46. Li J, Gao JJ, Zhang FC, Xing QH, Dang FL, Gao XC, **Duan S**, Zheng ZJ, Qian XQ, Qin W, Li XW, Han YF, Li J, Feng GY, St Clair D, He L. [An association study between the transthyretin (TTR) gene and mental retardation.](https://www.ncbi.nlm.nih.gov/pubmed/16362527) ***Eur Arch Psychiatry Clin Neurosci***, **2区 3.192**. 2006 Jun;256(4):230-5. PMID: 16362527
 47. Zou F, Li C, **Duan S**, Zheng Y, Gu N, Feng G, Xing Y, Shi J, He L. [A family-based study of the association between the G72/G30 genes and schizophrenia in the Chinese population.](https://www.ncbi.nlm.nih.gov/pubmed/15653269) ***Schizophr Res***, **2区 4.569**. 2005 Mar 1;73(2-3):257-61. PMID: 15653269
 48. Chen Q, He G, Qin W, Chen QY, Zhao XZ, **Duan S**, Liu XM, Feng GY, Xu YF, St Clair D, Li M, Wang JH, Xing YL, Shi JG, He L. [Family-based association study of synapsin II and schizophrenia.](https://www.ncbi.nlm.nih.gov/pubmed/15449241) ***Am J Hum Genet***, **1区 9.924**. 2004 Nov;75(5):873-7. PMID: 15449241
+
+## 授权专利
+1. [发明授权](http://www.soopat.com/Patent/201610496772?lx=FMSQ)用于检测与胃癌相关的NDRG4基因甲基化程度的试剂盒及其应用 - 201610496772.8;106011263B **有权**
+	申请人：宁波大学 - 申请日：2016-06-28 - 主分类号：C12Q1/6886(20180101)
+	发明人：**段世伟**;陈晓颖
+	摘要:本发明公开了用于检测与胃癌相关的NDRG4基因甲基化程度的试剂盒及其应用，特点是一对NDRG4基因甲基化特异性扩增引物对及甲基化特异性测序引物，具体核苷酸序列如下：上游引物：5'‑AGGGTTGGGGGTTTTAGA‑3'；下游引物：5'‑Biotin‑CACCCTCTACCAAAAACTCAAAACTCAATT‑3'；测序引物：5'‑GGGGTTTTAGAGTGTAT‑3'，优点是检测简单方便、针对性强、检测准确率和效率高，用于制备胃癌早期诊断的试剂或试剂盒。
