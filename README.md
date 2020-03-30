@@ -1,4 +1,4 @@
-## 欢迎来到段世伟的个人网站
+## 个人简介
 
 ![Image](http://yxy.nbu.edu.cn/__local/A/DF/30/4983E93E8BA951E28F772631D14_C08405AD_6BF9.png)
 
@@ -182,6 +182,7 @@
   </tr>
 </table>
 
+
 ## 获得基金资助
 
 <style type="text/css">
@@ -274,6 +275,7 @@
     <td class="tg-0lax">PI</td>
   </tr>
 </table>
+
 
 ## 奖励及荣誉
 <style type="text/css">
